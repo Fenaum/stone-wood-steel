@@ -2,7 +2,13 @@ import React from 'react'
 
 function JoinTournamentButton() {
   return (
-    <div>JoinTournamentButton</div>
+    <div>
+        <button onClick={
+            
+        }>Join Tournament
+
+        </button>
+    </div>
   )
 }
 
