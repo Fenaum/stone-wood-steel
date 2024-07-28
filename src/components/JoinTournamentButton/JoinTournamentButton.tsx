@@ -3,11 +3,7 @@ import React from 'react'
 function JoinTournamentButton() {
   return (
     <div>
-        <button onClick={
-            
-        }>Join Tournament
-
-        </button>
+        <button>Join Tournament</button>
     </div>
   )
 }
